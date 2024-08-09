@@ -1,4 +1,4 @@
-![LinkedIn](https://i.ibb.co/CWFvKqP/2024-02-20-09-01.png)
+![LinkedIn](https://i.postimg.cc/MKXNzGc5/jorge-ramirez-Mce-A9k-Sze0-U-unsplash.jpg)
 ## 👋 Hi, I'm Artha Syarif A!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artha-syarif-athaya-16061424b)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Arthasa4A)

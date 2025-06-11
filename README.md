@@ -13,7 +13,7 @@
 ![Securty](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 ![Secur](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-I am a Penetration Tester / Cyber Security Consultant and student at SMKN 1 Bekasi City.
+I am a Penetration Tester / IT Consultant and System Administrator ART Data Network
 
 > [!IMPORTANT]
 > The tools I have created are for educational purposes only. I do not take responsibility for any illegal actions that may be carried out using these tools!

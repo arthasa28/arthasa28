@@ -19,6 +19,7 @@ I am a Penetration Tester / IT Consultant and System Administrator ART Data Netw
 > The tools I have created are for educational purposes only. I do not take responsibility for any illegal actions that may be carried out using these tools!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arthasa28&theme=onedark)](https://github.com/arthasa28)
+![LinkedIn](https://i.postimg.cc/VkqRwyF4/kalian-pikir-anak.jpg)
 
 
 

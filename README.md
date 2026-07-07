@@ -67,7 +67,7 @@ Location:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/in/artha-syarif-athaya-16061424b">
+<a href="https://www.linkedin.com/in/arthasa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
